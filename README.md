@@ -2,7 +2,7 @@
 
 ## Simple Interest Calculator
 
-Successfully edited
+Successfully edited.
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
